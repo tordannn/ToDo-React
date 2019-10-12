@@ -14,4 +14,4 @@ This app stands for a daily **ToDo** list which allows to keep track of your act
 To start using the application, you need to:
 
 * `Git clone` the project to your local machine;
-* Go to the folder and run `npm start`.s
+* Go to the folder and run `npm start`.
